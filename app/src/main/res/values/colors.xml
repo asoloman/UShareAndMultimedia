@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="background">#f7f7f7</color>
+    <color name="but_text_color">#747474</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange">#DD501E</color>
+    <color name="white">#ffffff</color>
+    <color name="touming_white">#eaffffff</color>
+    <color name="text_black">#3d3d3d</color>
+    <color name="black">#000000</color>
+    <color name="blue">#54b1f2</color>
+    <color name="login_text_blue">#54b1f2</color>
+    <color name="login_text_blue_2">#9552b2f7</color>
+    <color name="ui_line">#eeeeee</color>
+    <color name="ui_line_2">#d9d9d9</color>
+    <color name="edittext_bg">#efefef</color>
+    <color name="edittext_bg_333">#f0f2f5</color>
+    <color name="gray_text">#9c9a9c</color>
+    <color name="gray_2_text">#bdbabd</color>
+    <color name="font_gray">#999999</color>
+
+    <item name="subscribe_item_text_color_normal_night" type="color">@color/default_text_night
+    </item>
+
+    <color name="default_text_night">#ff747474</color>
+    <color name="subscribe_item_text_color_pressed_night">#ff303030</color>
+    <color name="subscribe_item_selected_stroke_night">#ffbc494d</color>
+    <color name="subscribe_item_drag_stroke">#ffd2d2d2</color>
+    <color name="subscribe_item_drag_bg">#fff5f5f5</color>
+    <color name="subscribe_item_selected_bg">#ffffffff</color>
+    <color name="subscribe_item_selected_stroke">#ffcc3131</color>
+    <color name="subscribe_item_disabled_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_disabled_bg">#ffefefef</color>
+    <color name="subscribe_item_pressed_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_pressed_bg">#fff9f9f9</color>
+    <color name="subscribe_item_normal_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_normal_bg">#fff5f5f5</color>
+
+    <item name="subscribe_item_text_color_normal" type="color">@color/default_text</item>
+    <color name="default_text">#ff454545</color>
+    <color name="subscribe_item_text_color_pressed">#ffb9b9b9</color>
+
+
+    <!--二维码-->
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ff000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#cb000000</color>
+    <color name="viewfinder_frame">#ff4EEE94</color><!-- #ff0000ff -->
+    <color name="backgroud">#ffffffff</color>
+    <color name="title_tv_color">#ffffffff</color>
+</resources>

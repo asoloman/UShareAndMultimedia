@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/black"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <!--<include layout="@layout/head"/>-->
+    <ImageView
+        android:id="@+id/iv_music_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@mipmap/music_bg"
+        android:scaleType="centerCrop"
+        android:visibility="gone"
+        />
+
+    <com.wevalue.view.FullScreenVideoView
+       android:id="@+id/vv_play_audio"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_centerInParent="true"
+        android:background="@mipmap/music_bg"
+       />
+
+
+    <ImageView
+        android:id="@+id/iv_back"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:src="@mipmap/back"
+        android:scaleType="center"
+        />
+
+    <ProgressBar
+        android:id="@+id/pb_ProgressBar"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        />
+
+</RelativeLayout>
